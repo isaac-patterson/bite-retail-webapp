@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-veniretailfrontend-dev-151027-authRole",
+      "UnauthRoleArn": "arn:aws:iam::117468630787:role/amplify-veniretailfrontend-dev-151027-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::117468630787:role/amplify-veniretailfrontend-dev-151027-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-veniretailfrontend-dev-151027-deployment",
+      "UnauthRoleName": "amplify-veniretailfrontend-dev-151027-unauthRole",
+      "StackName": "amplify-veniretailfrontend-dev-151027",
+      "StackId": "arn:aws:cloudformation:us-east-1:117468630787:stack/amplify-veniretailfrontend-dev-151027/27677860-6b45-11eb-b8c0-1261ea05b3bf",
+      "AmplifyAppId": "dy11uduz50k3y"
+    },
+    "categories": {
+      "auth": {
+        "veniretailfrontendd5ea3a67": {
+          "userPoolId": "us-east-1_UzgpuHlrX",
+          "userPoolName": "Retail Pool",
+          "webClientId": "2qfe95j05m6rek8fu1f1ucpea",
+          "nativeClientId": "2qfe95j05m6rek8fu1f1ucpea"
+        }
+      }
+    }
+  }
+}

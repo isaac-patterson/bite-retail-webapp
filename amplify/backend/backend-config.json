@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "veniretailfrontendd5ea3a67": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

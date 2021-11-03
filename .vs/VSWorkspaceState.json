@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\constants",
+    "\\src\\models",
+    "\\src\\pages",
+    "\\src\\pages\\App",
+    "\\src\\pages\\HistoryPage",
+    "\\src\\pages\\LandingPage",
+    "\\src\\pages\\OrdersPage"
+  ],
+  "SelectedNode": "\\src\\pages\\HistoryPage\\historyPage.css",
+  "PreviewInSolutionExplorer": false
+}
